@@ -1,1 +1,1 @@
-# transaction processing
+# transaction processing | 事務處理
